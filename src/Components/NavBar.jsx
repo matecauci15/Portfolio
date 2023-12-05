@@ -22,7 +22,7 @@ const NavBar = () => {
                 <img className='w-8 h-8' src={linkedinlogo} alt="LinkedIn" />
             </NavLink>
             <NavLink to="https://twitter.com/mateocaucino">
-                <img className='w-8 h-8' src={twitter} alt="Twitte" />
+                <img className='w-8 h-8' src={twitter} alt="Twitter" />
             </NavLink>
         </nav>
     </header>
