@@ -148,7 +148,7 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'LoCanjeamos',
         description: 'Developed a simple page application that is a solution designed to address the challenge of rising prices on major e-commerce platforms in Latin America. This page allows users to enjoy new things by swapping new or used items with others on the platform',
-        link: 'https://github.com/LoCanjeamos/LoCanjeamos',
+        link: 'https://locanjeamos.com.ar/#/',
     },
     {
         iconUrl: pokemon,
